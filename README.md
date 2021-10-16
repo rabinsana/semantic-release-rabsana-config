@@ -1,4 +1,4 @@
-# @jedmao/semantic-release-npm-github-config
+# @rabinsana/semantic-release-rabsana-config
 
 [**semantic-release**](https://github.com/semantic-release/semantic-release) shareable config to publish npm packages with [GitHub](https://github.com).
 
